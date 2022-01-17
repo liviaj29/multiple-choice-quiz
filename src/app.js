@@ -1,4 +1,4 @@
-import { Nanny,html } from 'https://cdn.skypack.dev/nanny-state';
+import { Nanny,html } from 'nanny-state';
 import { questions } from './questions.js'
 
 function shuffle(array){
